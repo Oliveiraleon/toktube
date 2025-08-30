@@ -29,6 +29,7 @@ tiktok batch downloader / youtube batch downloader / instagram batch downloader 
 [![Forks](https://img.shields.io/github/forks/erfukuby/toktube?style=for-the-badge&color=orange)](https://github.com/erfukuby/toktube/network/members)
 [![GitHub release (latest by tag)](https://img.shields.io/github/v/tag/erfukuby/toktube?style=for-the-badge&color=green&label=latest)](https://github.com/erfukuby/toktube/releases)
 [![Downloads](https://img.shields.io/github/downloads/erfukuby/toktube/total?style=for-the-badge&color=brightgreen&label=downloads)](https://github.com/erfukuby/toktube/releases)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Now-ff3399?style=for-the-badge)](https://github.com/erfukuby/toktube/releases)
 
 ### 📜 Legal 
 [![License](https://img.shields.io/badge/License-GPL3.0-blue?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
@@ -116,6 +117,9 @@ tiktok batch downloader / youtube batch downloader / instagram batch downloader 
 ### 🔧 Technical Features
 - **FFmpeg Detection**  
   Automatically detects FFmpeg installation and prompts for setup if missing.
+
+[![Get Started](https://img.shields.io/badge/Get%20Started-Now-ff3399?style=for-the-badge)](https://github.com/erfukuby/toktube/releases)
+
 
 ## Screenshots
 
