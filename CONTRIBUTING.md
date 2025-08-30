@@ -1,6 +1,6 @@
-# 🤝 Contributing to YouTubeGO
+# 🤝 Contributing to TubeTok
 
-Thanks for your interest in contributing to **YouTubeGO 5.0**! We welcome bug reports, feature requests, and code improvements.
+Thanks for your interest in contributing to **TubeTok 5.0**! We welcome bug reports, feature requests, and code improvements.
 
 ## 📋 How to Contribute
 
@@ -29,3 +29,4 @@ Please test before submitting PRs. We use:
 If you're unsure about something, feel free to [open an issue](https://github.com/erfukuby/toktube/issues).
 
 Thanks again! You're awesome! 🧡
+
