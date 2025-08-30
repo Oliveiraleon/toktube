@@ -1,11 +1,11 @@
 # 💚 TubeTok Downloader 5.0 🎥
 
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bbba7502-d657-4ec1-ab4e-a8063fd439ca" />
 
   ### Modern Downloader with Advanced Features
   
   [![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PySide6/)
-  [![yt-dlp](https://img.shields.io/badge/Downloader-yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
   [![requests](https://img.shields.io/badge/HTTP-requests-2496ED?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/requests/)
   [![FFmpeg](https://img.shields.io/badge/External-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 </div>
@@ -114,6 +114,23 @@
 ### 🔧 Technical Features
 - **FFmpeg Detection**  
   Automatically detects FFmpeg installation and prompts for setup if missing.
+
+## Screenshots
+
+### Homepage
+![Image](https://github.com/user-attachments/assets/269665ed-fe5e-4657-a686-f199e5098cc7)
+
+### Videopage
+![Image](https://github.com/user-attachments/assets/3b964d4e-1b1a-46d1-9936-3b30f3cae964)
+
+### Audiopage
+![Image](https://github.com/user-attachments/assets/40e035dd-d84d-4d75-90d7-29e5a4152fcb)
+
+### History
+![Image](https://github.com/user-attachments/assets/40b79762-db6a-4cf9-9877-22203d464152)
+
+### Settings
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d838d9d8-194b-4440-b0be-8b90d2fa3636" />
 
 ## ⚙️ Installation
 
