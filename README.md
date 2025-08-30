@@ -21,6 +21,7 @@ tiktok batch downloader / youtube batch downloader / instagram batch downloader 
 - [License](LICENSE)
 
 ## 🛠️ Tech Stack
+![Views](https://komarev.com/ghpvc/?username=erfukuby&color=ff3399)
 
 ### 📊 Project Stats
 [![Code size](https://img.shields.io/github/languages/code-size/erfukuby/toktube?style=for-the-badge&color=blueviolet)](https://github.com/erfukuby/toktube)
