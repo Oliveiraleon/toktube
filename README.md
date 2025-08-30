@@ -118,19 +118,22 @@
 ## Screenshots
 
 ### Homepage
-![Image](https://github.com/user-attachments/assets/269665ed-fe5e-4657-a686-f199e5098cc7)
+<img width="2559" height="941" alt="Image" src="https://github.com/user-attachments/assets/faabc35b-7295-4ae5-a387-cbf24e8912f5" />
 
 ### Videopage
-![Image](https://github.com/user-attachments/assets/3b964d4e-1b1a-46d1-9936-3b30f3cae964)
+<img width="2559" height="855" alt="Image" src="https://github.com/user-attachments/assets/18974834-b0ec-41ba-aa15-e54ada65cf97" />
 
 ### Audiopage
-![Image](https://github.com/user-attachments/assets/40e035dd-d84d-4d75-90d7-29e5a4152fcb)
+<img width="2559" height="878" alt="Image" src="https://github.com/user-attachments/assets/9ca48bf2-3086-4786-af02-5030e8d10bf5" />
 
 ### History
-![Image](https://github.com/user-attachments/assets/40b79762-db6a-4cf9-9877-22203d464152)
+<img width="2048" height="708" alt="Image" src="https://github.com/user-attachments/assets/0653bedf-792d-4dfd-8cb0-a40ec0c6bf5a" />
+
+### Batch downloader
+<img width="2559" height="1384" alt="Image" src="https://github.com/user-attachments/assets/690c4e04-7a28-4fc9-917c-abce5624fd45" />
 
 ### Settings
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d838d9d8-194b-4440-b0be-8b90d2fa3636" />
+<img width="2559" height="1314" alt="Image" src="https://github.com/user-attachments/assets/bec8b819-fe55-4617-9567-45227c990013" />
 
 ## ⚙️ Installation
 
