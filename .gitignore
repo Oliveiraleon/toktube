@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+data/
+*.pyc
+*.pyo
+*.pyd
+*.mp4
+*.mp3
+*.wav
+*.ytdl
+*.part
+user_profile.json
+youtube_cookies.txt
+history.json
+.coverage
