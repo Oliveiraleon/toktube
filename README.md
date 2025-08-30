@@ -22,7 +22,7 @@
 
 ### 📊 Project Stats
 [![Code size](https://img.shields.io/github/languages/code-size/erfukuby/toktube?style=for-the-badge&color=blueviolet)](https://github.com/erfukuby/toktube)
-[![Last commit](https://img.shields.io/github/last-commit/erfukuby/toktube?style=for-the-badge&color=blue)](https://github.com/erfukuby/toktube/commits)
+[![Last commit](https://img.shields.io/github/last-commit/erfukuby/toktube?style=for-the-badge&color=blue)](https://github.com/erfukuby/toktube/commits/main)
 [![Stars](https://img.shields.io/github/stars/erfukuby/toktube?style=for-the-badge&color=yellow)](https://github.com/erfukuby/toktube/stargazers)
 [![Forks](https://img.shields.io/github/forks/erfukuby/toktube?style=for-the-badge&color=orange)](https://github.com/erfukuby/toktube/network/members)
 [![GitHub release (latest by tag)](https://img.shields.io/github/v/tag/erfukuby/toktube?style=for-the-badge&color=green&label=latest)](https://github.com/erfukuby/toktube/releases)
