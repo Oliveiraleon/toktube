@@ -1,5 +1,7 @@
 # 💚 TikTok Batch Downloader 5.0 🎥
 
+tiktok batch downloader / youtube batch downloader / instagram batch downloader / tiktok video downloader / youtube video downloader / instagram video downloader 
+
 <img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bbba7502-d657-4ec1-ab4e-a8063fd439ca" />
 
   ### Modern Downloader with Advanced Features
