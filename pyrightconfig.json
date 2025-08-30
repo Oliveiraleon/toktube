@@ -1,0 +1,13 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": true,
+  "exclude": [
+    "**/build/**",
+    "**/dist/**",
+    ".venv"
+  ]
+}
+
+
