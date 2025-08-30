@@ -135,36 +135,9 @@
 ## ⚙️ Installation
 
 ### Windows
-- Download the latest `.exe` installer or `.zip` archive from [Releases](https://github.com/Efeckc17/YoutubeGO/releases)
+- Download the latest `.exe` installer or `.zip` archive from [Releases](https://github.com/erfukuby/toktube/releases)
 - Both packages include all dependencies including FFmpeg
 - Run the installer or extract the `.zip` and run `TubeTok Downloader.exe`
-
-### macOS
-- Download the latest `.dmg` package from [Releases](https://github.com/Efeckc17/YoutubeGO/releases)
-- Install FFmpeg using [Homebrew](https://brew.sh):
-  ```bash
-  brew install ffmpeg
-  ```
-- Mount the `.dmg` file and drag TubeTok Downloader to Applications folder
-
-### Linux
-- Download the latest `.AppImage` from [Releases](https://github.com/erfukuby/YoutubeGO/releases)
-- Install FFmpeg using your package manager:
-  ```bash
-  # Ubuntu/Debian
-  sudo apt install ffmpeg
-
-  # Fedora
-  sudo dnf install ffmpeg
-
-  # Arch Linux
-  sudo pacman -S ffmpeg
-  ```
-- Make the AppImage executable:
-  ```bash
-  chmod +x TubeTok Downloader.AppImage
-  ```
-- Run the AppImage
 
 ### From Source
 - Clone the repository
