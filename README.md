@@ -1,4 +1,4 @@
-# 💚 TubeTok Downloader 5.0 🎥
+# 💚 TikTok Batch Downloader 5.0 🎥
 
 <img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bbba7502-d657-4ec1-ab4e-a8063fd439ca" />
 
