@@ -31,7 +31,7 @@ tiktok batch downloader / youtube batch downloader / instagram batch downloader 
 [![Downloads](https://img.shields.io/github/downloads/erfukuby/toktube/total?style=for-the-badge&color=brightgreen&label=downloads)](https://github.com/erfukuby/toktube/releases)
 
 ### 📜 Legal 
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL3.0-blue?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
 
 ## 🌟 Key Features
 
